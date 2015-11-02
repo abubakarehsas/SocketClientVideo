@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Video Client</string>
+    <string name="ip">172.20.10.3</string>
+    <string name="port">21111</string>
+    <string name="send">Send</string>
+
+</resources>
